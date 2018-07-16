@@ -7,7 +7,7 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size : 500%;
     text-shadow : 5px 2px 4px rgb(0, 0, 0) ;
-}        
+}
 #wanted5 {
     background-color:#ffffff ;
     font-size: 150%;
@@ -43,7 +43,6 @@ table,td {
     border:1px solid black;
     border-collapse: collapse;
     text-align: left ;
-
 }
 td {
     height: 50px;
@@ -57,16 +56,13 @@ th {
     background-color: magenta;
     text-align: center;
     border: 1px solid black ;
-    
 }
 #navigation {
     overflow: visible;
     background-color:#ffffff ;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-size: 300%;
-}
-
-/* Style the topnav links */
+}/* Style the topnav links */
 #navigation a {
     float: left;
     display: block;
@@ -89,20 +85,19 @@ th {
 #wanted4 {
     background-color: #F00000;
     display: block;
-
 }
 
 @media screen and (min-width: 500px)
 {
-    
+
         #wanted4 {
             background-color: white ;
             color: black;
-        }   
+        }
 }
 .img1{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%    
+    width: 60%
 }
